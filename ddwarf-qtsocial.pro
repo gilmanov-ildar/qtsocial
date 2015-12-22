@@ -1,5 +1,5 @@
 TEMPLATE = lib
-TARGET = qtsocial
+TARGET = ddwarf-qtsocial
 VERSION = 1.0
 
 QT += qml quick
